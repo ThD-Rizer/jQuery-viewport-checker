@@ -46,7 +46,7 @@
                 viewportStart = Math.max(
                     $('html').scrollTop(),
                     $('body').scrollTop(),
-                    $(window).scrollTop(),
+                    $(window).scrollTop()
                 );
                 viewportEnd = (viewportStart + boxSize.height);
             }

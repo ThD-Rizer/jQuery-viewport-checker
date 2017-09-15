@@ -13,7 +13,7 @@ Installation
 Download the file located in `/dist` or use bower to install it. 
 
 ```
-bower install jQuery-viewport-checker
+npm install jquery-viewport-checker
 ```
 
 Include the script and jQuery in your website <head> tag and call it on the elements you want to check.
